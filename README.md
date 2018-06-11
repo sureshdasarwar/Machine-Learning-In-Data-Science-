@@ -22,9 +22,9 @@ Ensuring that each document has a class label, based on the original category la
 
 ## Part 3. Applying the Machine Learning Algorithm
 
-1. Here I have builded three multi-class classification models using three different classifiers namely 
-a] K-Nearest-Neighbor(KNN) Classifier 
-b] Logistic Regression Classifier, and 
+1. Here I have builded three multi-class classification models using three different classifiers namely. 
+a] K-Nearest-Neighbor(KNN) Classifier. 
+b] Logistic Regression Classifier, and. 
 c] Decision Tree Classifier.
 2. I have compared the predictions of the these classification models using an appropriate evaluation strategy 
 and discussed the evaluation results in the notebook. 
