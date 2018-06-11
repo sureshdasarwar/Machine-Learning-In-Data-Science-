@@ -16,19 +16,20 @@ The objective of this Project is to scrape a corpus of News articles from a set 
 ## Part 2. Text Classification 
 
 The goal here is to analyse the corpus of documents from Part 1 in a text classification context. Tasks that has completed: 
-1. From Part 1 load the files having the set of raw documents and its realative labels into Jupyter notebook. 
-Ensuring that each document has a class label, based on the original category label that was identified. 
-2. From the raw documents I have created a document-term matrix, before that I performed an appropriate text pre-processing techniques like Tokenization, Removing Stopwords, Bag-Of-Words Representation, Lemmatization and term weighting steps. 
+  1. From Part 1 load the files having the set of raw documents and its realative labels into Jupyter notebook. 
+  Ensuring that each document has a class label, based on the original category label that was identified. 
+  2. From the raw documents I have created a document-term matrix, before that I performed an appropriate text pre-processing techniques     like Tokenization, Removing Stopwords, Bag-Of-Words Representation, Lemmatization and term weighting steps. 
 
 ## Part 3. Applying the Machine Learning Algorithm
 
-1. Here I have builded three multi-class classification models using three different classifiers namely. 
-a] K-Nearest-Neighbor(KNN) Classifier
+  1. Here I have builded three multi-class classification models using three different classifiers namely. 
 
-b] Logistic Regression Classifier, and. 
+    a] K-Nearest-Neighbor(KNN) Classifier
 
-c] Decision Tree Classifier.
+    b] Logistic Regression Classifier, and. 
 
-2. I have compared the predictions of the these classification models using an appropriate evaluation strategy 
-and discussed the evaluation results in the notebook. 
-3. Displayed the Confusion Matrix and Classification Report which has precision, recall, f1-score, and support of the Classifier. 
+    c] Decision Tree Classifier.
+
+  2. I have compared the predictions of the these classification models using an appropriate evaluation strategy 
+  and discussed the evaluation results in the notebook. 
+  3. Displayed the Confusion Matrix and Classification Report which has precision, recall, f1-score, and support of the Classifier. 
