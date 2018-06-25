@@ -33,3 +33,6 @@ The goal here is to analyse the corpus of documents from Part 1 in a text classi
   2. I have compared the predictions of the these classification models using an appropriate evaluation strategy 
   and discussed the evaluation results in the notebook. 
   3. Displayed the Confusion Matrix and Classification Report which has precision, recall, f1-score, and support of the Classifier. 
+
+
+#### NOTE: PLEASE CONSIDER THIS PROJECT AS SAMPLE FOR ENCOURAGING OR INSPIRATION PURPOSE, IF YOU WANT TO REFFER PLEASE PROVIDE THE CITATION OF THIS LINK IN YOUR WORK.
